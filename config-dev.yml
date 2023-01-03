@@ -1,3 +1,2 @@
 config:
-  info: "master branch dev config"
-  value: 1
+  info: "master branch dev config value=1"
